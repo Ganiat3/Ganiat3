@@ -34,7 +34,7 @@
 ###
 
 <p>
-  <a href="https://github.com/topics/power-bi" style="text-decoration: none;">
+  <a href="https://github.com/search?q=user:ganiat3+topic:power-bi" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="20" alt="Power BI Logo" style="vertical-align: middle; padding-right: 6px;" />
     <span style="color: #1f6feb;">Power BI Projects</span>
   </a>
