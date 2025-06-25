@@ -41,14 +41,14 @@
 </p>
 
 <p>
-  <a href="https://github.com/topics/excel" style="text-decoration: none;">
+  <a href="https://github.com/search?q=user:ganiat3+topic:excel" style="text-decoration: none;">
     <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" height="20" alt="Excel Logo" style="vertical-align: middle; padding-right: 6px;" />
     <span style="color: #1f6feb;">Excel Projects</span>
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/topics/python" style="text-decoration: none;">
+  <a href="https://github.com/search?q=user:ganiat3+topic:python" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python Logo" style="vertical-align: middle; padding-right: 6px;" />
     <span style="color: #1f6feb;">Python Projects</span>
   </a>
